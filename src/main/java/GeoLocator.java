@@ -1,5 +1,3 @@
-package geolocator;
-
 import java.net.URL;
 
 import java.io.IOException;
